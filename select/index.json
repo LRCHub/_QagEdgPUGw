@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "ふれて未来を",
+  "base_artist": "SUKIMASWITCH",
+  "createdAt": "2026-01-12T19:29:57.167642Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ふれて未来を",
+      "artist": "Sukimaswitch",
+      "has_synced": false,
+      "path": "select/01_ふれて未来を_Sukimaswitch.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ふれて未来を",
+      "artist": "スキマスイッチ",
+      "has_synced": true,
+      "path": "select/02_ふれて未来を_スキマスイッチ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ふれて未来を",
+      "artist": "スキマスイッチ",
+      "has_synced": false,
+      "path": "select/03_ふれて未来を_スキマスイッチ.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ふれて未来を",
+      "artist": "Sukima Switch",
+      "has_synced": false,
+      "path": "select/04_ふれて未来を_Sukima_Switch.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ふれて未来を",
+      "artist": "スキマスイッチ",
+      "has_synced": false,
+      "path": "select/pl_01_ふれて未来を_スキマスイッチ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ふれて未来を",
+      "artist": "スキマスイッチ",
+      "has_synced": false,
+      "path": "select/pl_02_ふれて未来を_スキマスイッチ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ふれて未来を",
+      "artist": "スキマスイッチ",
+      "has_synced": false,
+      "path": "select/pl_03_ふれて未来を_スキマスイッチ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "ふれて未来を",
+      "artist": "スキマスイッチ",
+      "has_synced": false,
+      "path": "select/pl_04_ふれて未来を_スキマスイッチ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "ふれて未来を",
+      "artist": "スキマスイッチ",
+      "has_synced": false,
+      "path": "select/pl_05_ふれて未来を_スキマスイッチ.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "ふれて未来を",
+      "artist": "スキマスイッチ",
+      "has_synced": false,
+      "path": "select/pl_06_ふれて未来を_スキマスイッチ.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "ふれて未来を",
+      "artist": "スキマスイッチ",
+      "has_synced": false,
+      "path": "select/pl_07_ふれて未来を_スキマスイッチ.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "ふれて未来を",
+      "artist": "スキマスイッチ",
+      "has_synced": false,
+      "path": "select/pl_08_ふれて未来を_スキマスイッチ.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "ふれて未来を",
+      "artist": "スキマスイッチ",
+      "has_synced": false,
+      "path": "select/pl_09_ふれて未来を_スキマスイッチ.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "ふれて未来を [Rearranged]",
+      "artist": "スキマスイッチ",
+      "has_synced": false,
+      "path": "select/pl_10_ふれて未来を_[Rearranged]_スキマスイッチ.txt"
+    }
+  ]
+}
